@@ -7,7 +7,7 @@
 🔧 Experienced with system design, APIs, and interactive UIs  
 🧠 Love solving problems on Codeforces & VJudge  
 📫 Reach me at: [y.yousef312@outlook.com](mailto:y.yousef312@outlook.com)  
-🚀 *"Code it until it clicks."*  
+  
 
 ---
 
