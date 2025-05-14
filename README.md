@@ -3,7 +3,9 @@
 👨‍💻 Frontend Developer | Problem Solver | Tech Explorer  
 
 💡 Passionate about building real-world applications with clean, maintainable code 
+
 🌐 Following both frontend and AI development tracks
+
 🔧 Experienced with system design, APIs, and interactive UIs  
 🧠 Love solving problems on Codeforces & VJudge  
 📫 Reach me at: [y.yousef312@outlook.com](mailto:y.yousef312@outlook.com)  
