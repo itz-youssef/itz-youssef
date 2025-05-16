@@ -52,7 +52,7 @@
 
 
 <!-- GitHub Streak -->
-<div align="center" style="display: flex; justify-content: center; gap: 200px;">
+<div align="center" style="display: flex; justify-content: center; gap: 500px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" />
   
