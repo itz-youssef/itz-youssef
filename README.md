@@ -54,7 +54,9 @@
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" style="margin-Right: 2000px;" />
+  <br></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1111111111&layout=compact&theme=tokyonight" alt="Top Languages" height="200" style="margin-left: 2000px;" />
+  <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
