@@ -45,7 +45,10 @@
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Youssef1111111111&theme=tokyonight&row=1&margin-w=15)
+
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight)
 
