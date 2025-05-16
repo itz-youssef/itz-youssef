@@ -44,7 +44,10 @@
 ---
 
 ## 📈 GitHub Stats
-
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef1111111111&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophy" />
+</p>
 <!-- GitHub Stats + Top Languages side by side -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
@@ -56,10 +59,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef1111111111&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophy" />
-</p>
+
 
 <!-- Contribution Snake -->
 <p align="center">
