@@ -48,10 +48,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Youssef1111111111&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophy" />
 </p>
-<!-- GitHub Stats + Top Languages side by side -->
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1111111111&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1111111111&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
 </p>
 
 <!-- GitHub Streak -->
