@@ -62,10 +62,6 @@
 
 
 
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Youssef1111111111/Youssef1111111111/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 
 
