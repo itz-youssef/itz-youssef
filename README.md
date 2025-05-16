@@ -52,10 +52,10 @@
 
 
 <!-- GitHub Streak -->
-<div align="center" style="display: flex; justify-content: center; gap: 40px;">
+<div align="center" style="display: flex; justify-content: center; gap: 200px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" />
-  <br></br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1111111111&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
   <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight" alt="GitHub Streak" height="200" />
