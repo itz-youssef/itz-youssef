@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=Youssef1111111111&theme=tokyonight&row=1&margin-w=15)
+  ![GitHub Contribution Snake](https://raw.githubusercontent.com/Youssef1111111111/Youssef1111111111/output/github-contribution-grid-snake.svg)
 
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight)
