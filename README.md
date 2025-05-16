@@ -43,18 +43,27 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 GitHub Stats
+
+<!-- GitHub Stats + Top Languages side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Youssef1111111111&theme=tokyonight&row=1&margin-w=15)
-  ![GitHub Contribution Snake](https://raw.githubusercontent.com/Youssef1111111111/Youssef1111111111/output/github-contribution-grid-snake.svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef1111111111&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1111111111&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+</p>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight)
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef1111111111&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophy" />
+</p>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1111111111&layout=compact&theme=tokyonight)
-
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Youssef1111111111/Youssef1111111111/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 
