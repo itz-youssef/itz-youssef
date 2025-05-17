@@ -67,8 +67,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1111111111&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
   <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight" alt="GitHub Streak" height="200" />
-  
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-youssef/itz-youssef/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-youssef/itz-youssef/output/github-snake.svg" />
