@@ -1,3 +1,7 @@
+![banner](./banner.svg)
+
+
+
 # 💫 About Me:
 🎓 Computer Science Student at Cairo University  
 
@@ -13,7 +17,7 @@
 
 📫 Reach me at: [y.yousef312@outlook.com](mailto:y.yousef312@outlook.com)  
 
-![Youssef's Banner](./banner.svg)
+
 
   
 
