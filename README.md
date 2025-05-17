@@ -1,4 +1,5 @@
-![banner](./banner.svg)
+![banner](https://raw.githubusercontent.com/itz-youssef/itz-youssef/main/banner.svg)
+
 
 
 
