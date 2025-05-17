@@ -59,9 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1111111111&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
   <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight" alt="GitHub Streak" height="200" />
-
+  ![Snake animation](https://github.com/itz-youssef/itz-youssef/blob/output/github-contribution-grid-snake.svg)
 </div>
-![Snake animation](https://github.com/itz-youssef/itz-youssef/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
