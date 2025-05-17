@@ -61,6 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Youssef1111111111&theme=tokyonight" alt="GitHub Streak" height="200" />
 
 </div>
+![Snake animation](https://github.com/itz-youssef/itz-youssef/blob/output/github-contribution-grid-snake.svg)
 
 
 
