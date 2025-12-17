@@ -35,6 +35,7 @@ current_status = {
     "🌱 Learning": "NLP, Transformers & BERT",
     "⚡ Fun Fact": "Powered by Coffee and Code ☕"
 }
+```
 ---
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
