@@ -93,6 +93,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itz-youssef&label=Profile%20Views&color=d16af4&style=flat-square" alt="itz-youssef" />
+  <div align="center"> <img src="https://komarev.com/ghpvc/?username=itz-youssef&label=Profile%20Views&color=d16af4&style=flat-square" alt="itz-youssef" /> <p>
   <p><i>"The best way to predict the future is to invent it."</i></p>
 </div>
