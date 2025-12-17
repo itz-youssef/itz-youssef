@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=d16af4&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Youssef+👋;AI+Engineer+in+the+Making+🤖;Problem+Solver+%26+Tech+Explorer+🚀;Building+the+Future+with+Code+🔮" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=d16af4&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Youssef+👋;AI+Engineer+in+the+Making+🤖;Problem+Solver+%26+Tech+Explorer+🚀;Building+the+Future+with+Code+🔮" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="./profile.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #d16af4; box-shadow: 0 0 20px #d16af4;">
+  <img src="./profile.jpg" width="250" height="250" style="border-radius: 50%; border: 5px solid #d16af4; box-shadow: 0 0 25px #d16af4;">
   <br>
   <br>
   
