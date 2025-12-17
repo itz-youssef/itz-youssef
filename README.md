@@ -8,14 +8,10 @@
   <br>
   
   <a href="mailto:y.yousef312@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Me-d16af4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-d16af4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Youssef_Yasser_Elsayed">
-    <img src="https://img.shields.io/badge/Codeforces-Ranking-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://vjudge.net/user/youssef111111111">
-    <img src="https://img.shields.io/badge/VJudge-Solver-e0e0e0?style=for-the-badge&logo=v&logoColor=black" />
-  </a>
+
+  
 </div>
 
 <br>
@@ -40,20 +36,20 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
 
 <br>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
 
 <br>
 
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+
 
 </div>
 
