@@ -28,11 +28,11 @@
  🔭 Currently working on <b>Machine Learning Models & System Design</b>.
 </p>
 
-<div align="center">
-  | 🧠 Thinking About | 🌱 Learning | ⚡ Fun Fact |
-  | :--- | :--- | :--- |
-  | Deep Learning | NLP & Transformers | I love purple neon! |
-</div>
+
+current_status = {
+    "🔭 Working on": "Deep Learning Models & System Design",
+    "🌱 Learning": "NLP, Transformers & BERT",
+}
 
 ---
 
