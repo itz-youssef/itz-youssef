@@ -93,8 +93,7 @@
 ---
 
 <div align="center">
-  ## 🏆 GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=itz-youssef&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+   <img src="https://komarev.com/ghpvc/?username=itz-youssef&label=Profile%20Views&color=d16af4&style=flat-square" alt="itz-youssef" />
 
   <p><i>"The best way to predict the future is to invent it."</i></p>
 </div>
