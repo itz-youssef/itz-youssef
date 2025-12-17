@@ -30,13 +30,13 @@
 
 
 ```python
-current_status = {
+Dcurrent_status = {
     "🔭 Working on": "Deep Learning Models & System Design",
     "🌱 Learning": "NLP, Transformers & BERT",
     "⚡ Fun Fact": "Powered by Coffee and Code ☕"
 }
 ```
----
+
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
 
