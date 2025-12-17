@@ -86,9 +86,9 @@
 </div>
 
 <h3 align="center">🏆 Achievements</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itz-youssef&theme=tokyonight&row=1&margin-w=15&no-bg=true" alt="GitHub Trophy" />
-</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itz-youssef&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
