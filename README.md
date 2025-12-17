@@ -85,14 +85,6 @@
   </picture>
 </div>
 
-<h3 align="center">🏆 Achievements</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itz-youssef&show_icons=true&theme=onedark)
-
-
-
-
-
 
 ---
 
