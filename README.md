@@ -87,7 +87,8 @@
 
 <h3 align="center">🏆 Achievements</h3>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=itz-youssef&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itz-youssef&show_icons=true&theme=onedark)
+
 
 
 
