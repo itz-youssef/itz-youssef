@@ -29,11 +29,11 @@
 </p>
 
 
-current_status = {
-    "🔭 Working on": "Deep Learning Models & System Design",
-    "🌱 Learning": "NLP, Transformers & BERT",
-}
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Deep%20Learning%20%26%20AI-d16af4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-NLP%20%26%20Transformers-blue?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Purple%20Neon%20%F0%9F%92%9C-1f1f1f?style=for-the-badge&logo=spotify&logoColor=d16af4" />
+</div>
 ---
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
