@@ -1,85 +1,102 @@
-![banner](https://raw.githubusercontent.com/itz-youssef/itz-youssef/main/banner.svg)
-
-
-
-
-# 💫 About Me:
-🎓 Computer Science Student at Cairo University  
-
-👨‍💻 AI Engineer | Problem Solver | Tech Explorer  
-
-💡 Passionate about building real-world applications with clean, maintainable code 
-
-🌐 Following AI development track
-
-🔧 Experienced with system design, APIs, and interactive UIs  
-
-🧠 Love solving problems on Codeforces & VJudge  
-
-📫 Reach me at: [y.yousef312@outlook.com](mailto:y.yousef312@outlook.com)  
-
-
-
-  
-
----
-
-## 🌐 Socials:
-[Email](mailto:y.yousef312@outlook.com) • [Codeforces](https://codeforces.com/profile/Youssef_Yasser_Elsayed) • [VJudge](https://vjudge.net/user/youssef111111111)
-
----
-
-## 💻 Tech Stack:
-**Languages & Programming:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & Tools:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools & Platforms:**  
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itz-youssef&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophy" />
-</p>
-
-
-
-<!-- GitHub Streak -->
-<div align="center" style="display: flex; justify-content: center; gap: 500px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=itz-youssef&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" />
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-youssef&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
-  <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itz-youssef&theme=tokyonight" alt="GitHub Streak" height="200" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=d16af4&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Youssef+👋;AI+Engineer+in+the+Making+🤖;Problem+Solver+%26+Tech+Explorer+🚀;Building+the+Future+with+Code+🔮" alt="Typing SVG" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-youssef/itz-youssef/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-youssef/itz-youssef/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/itz-youssef/itz-youssef/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="./profile.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #d16af4; box-shadow: 0 0 20px #d16af4;">
+  <br>
+  <br>
+  
+  <a href="mailto:y.yousef312@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Me-d16af4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Youssef_Yasser_Elsayed">
+    <img src="https://img.shields.io/badge/Codeforces-Ranking-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://vjudge.net/user/youssef111111111">
+    <img src="https://img.shields.io/badge/VJudge-Solver-e0e0e0?style=for-the-badge&logo=v&logoColor=black" />
+  </a>
+</div>
 
+<br>
 
+<h3 align="center">💫 About Me</h3>
 
+<p align="center">
+ 🎓 <b>Computer Science Student</b> at Cairo University specializing in <b>Artificial Intelligence</b>.<br>
+ I bridge the gap between complex algorithms and real-world applications.<br>
+ 🔭 Currently working on <b>Machine Learning Models & System Design</b>.
+</p>
 
-
-
-
+<div align="center">
+  | 🧠 Thinking About | 🌱 Learning | ⚡ Fun Fact |
+  | :--- | :--- | :--- |
+  | Deep Learning | NLP & Transformers | I love purple neon! |
+</div>
 
 ---
+
+<h3 align="center">🛠️ Technical Arsenal</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=itz-youssef&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=itz-youssef&theme=tokyonight&hide_border=true&background=1a1b27" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-youssef&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&hide_border=true" />
+</div>
+
+<h3 align="center">🐍 Contributions Snake</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-youssef/itz-youssef/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-youssef/itz-youssef/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/itz-youssef/itz-youssef/output/github-snake.svg" />
+  </picture>
+</div>
+
+<h3 align="center">🏆 Achievements</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itz-youssef&theme=tokyonight&row=1&margin-w=15&no-bg=true" alt="GitHub Trophy" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=itz-youssef&label=Profile%20Views&color=d16af4&style=flat-square" alt="itz-youssef" />
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+</div>
